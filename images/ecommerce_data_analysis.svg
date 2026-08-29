@@ -1,0 +1,49 @@
+<svg viewBox="0 0 640 400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="wash" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#B48CE8" stop-opacity="0.35"/>
+      <stop offset="0.55" stop-color="#B48CE8" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M 28 0 L 0 0 0 28" fill="none" stroke="#ffffff" stroke-opacity="0.045" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <!-- background -->
+  <rect width="640" height="400" fill="#101623"/>
+  <rect width="640" height="400" fill="url(#grid)"/>
+  <rect width="640" height="400" fill="url(#wash)"/>
+  <rect x="0.5" y="0.5" width="639" height="399" fill="none" stroke="#212B3D" stroke-width="1"/>
+
+  <!-- icon group: shopping cart + rising sales chart -->
+  <g transform="translate(320,185)">
+
+    <!-- dashed growth trend line with arrowhead, echoing the reference style -->
+    <g fill="none" stroke="#B48CE8" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M -108 25 Q -20 -85 100 -55" stroke-dasharray="4 8"/>
+      <path d="M 68 -68 L 100 -55 L 82 -24 L 70 -36 L 52 -20 L 48 -37 L 68 -50 Z" fill="#B48CE8" stroke="none"/>
+    </g>
+
+    <!-- bar chart baseline + ascending bars -->
+    <g stroke="#B48CE8" stroke-width="3" stroke-linecap="round" stroke-opacity="0.5">
+      <line x1="-108" y1="70" x2="108" y2="70"/>
+    </g>
+    <g fill="#B48CE8">
+      <rect x="-96" y="45" width="14" height="25" rx="2" opacity="0.55"/>
+      <rect x="-66" y="30" width="14" height="40" rx="2" opacity="0.7"/>
+      <rect x="-36" y="14" width="14" height="56" rx="2" opacity="0.85"/>
+      <rect x="-6" y="0" width="14" height="70" rx="2"/>
+    </g>
+
+    <!-- shopping cart -->
+    <g transform="translate(28,-8)" fill="none" stroke="#B48CE8" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M 20 5 L 32 5 L 46 55 L 96 55 L 106 20 L 40 20"/>
+      <circle cx="52" cy="72" r="7" fill="#101623"/>
+      <circle cx="90" cy="72" r="7" fill="#101623"/>
+    </g>
+  </g>
+
+  <!-- title -->
+  <text x="320" y="330" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="24" fill="#E8E6F0" font-weight="600" letter-spacing="0.5">E-Commerce Data Analysis</text>
+  <text x="320" y="358" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#B48CE8" letter-spacing="3">PYTHON</text>
+</svg>

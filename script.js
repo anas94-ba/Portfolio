@@ -123,6 +123,16 @@ const PROJECTS = [
     link:"https://public.tableau.com/app/profile/anas.baba5653/viz/bank_17840351069080/Story1",
     cover:"images/bank-campaign-analysis-tableau.svg",
     images:["images/da/6/1.JPG","images/da/6/2.JPG","images/da/6/3.JPG"]
+  },
+  {
+    id:"E-Commerce-Data-Analysis",
+    section:"data",
+    title:"E-Commerce Data Analysis",
+    tag:"Python",
+    desc:"E-commerce Data Analysis — Cleaned and analyzed 540K+ real retail transactions using Python and Pandas, uncovering that the top 31% of customers drive 80% of revenue. Built 12 visualizations to support data-driven retention and growth decisions.",
+    link:"https://github.com/anas94-ba/E-Commerce-Data-Analysis",
+    cover:"images/ecommerce_data_analysis.svg",
+    images:["images/da/7/1.png","images/da/7/2.png","images/da/7/3.png","images/da/7/4.png"]
   }
 ];
 
