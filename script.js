@@ -44,6 +44,16 @@ const PROJECTS = [
     images:["images/ai/face-detection-recognition/1.JPG","images/ai/face-detection-recognition/2.JPG","images/ai/face-detection-recognition/3.JPG"]
   },
   {
+    id:"logo-detection",
+    section:"ai",
+    title:"Logo Detection",
+    tag:"Computer Vision",
+    desc:"Detect brand logos in video files using OpenCV template matching or YOLO, with a desktop GUI, CLI, and Python API.",
+    link:"https://github.com/anas94-ba/logo-detector",
+    cover:"images/logo-detection.svg",
+    images:["images/ai/logo-detection/1.JPG","images/ai/logo-detection/2.JPG"]
+  },
+  {
     id:"barbershop-management-system",
     section:"software",
     title:"Barbershop Management System",
