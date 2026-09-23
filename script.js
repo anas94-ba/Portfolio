@@ -143,6 +143,16 @@ const PROJECTS = [
     link:"https://github.com/anas94-ba/E-Commerce-Data-Analysis",
     cover:"images/ecommerce_data_analysis.svg",
     images:["images/da/7/1.png","images/da/7/2.png","images/da/7/3.png","images/da/7/4.png"]
+  },
+  {
+    id:"Dynamic-executive-financial-dashboard",
+    section:"data",
+    title:"Dynamic executive financial dashboard (CFO Dashboard) linked to Odoo via Power Query.",
+    tag:"Excel",
+    desc:"An executive Excel dashboard that automatically links monthly Odoo data exports via Power Query, updating indicators, monthly and cumulative comparisons, and budget variances with the click of a button—without requiring any manual formula adjustments.",
+    link:"https://docs.google.com/spreadsheets/d/106nCIHvNfxWasSaV83sLfIqHNmSUbSiJ/edit?usp=sharing&ouid=103805479487189940846&rtpof=true&sd=true",
+    cover:"images/finance-analysis-excel.svg",
+    images:["images/da/8/1.jpg","images/da/8/2.jpg","images/da/8/3.jpg","images/da/8/4.jpg"]
   }
 ];
 
