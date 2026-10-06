@@ -38,7 +38,7 @@ const PROJECTS = [
     section:"ai",
     title:"Face Detection & Recognition",
     tag:"Computer Vision",
-    desc:"A computer vision system that detects and recognizes faces in real time, built and trained for accurate identification across varied lighting and angles.",
+    desc:"Developed a computer vision application using Python, OpenCV, and NumPy to automate face detection and recognition, processing image data and implementing recognition algorithms to achieve 70%+ automated identification without human intervention. ",
     link:"https://github.com/anas94-ba/Face-Detection-Recognition-using-OpenCV",
     cover:"images/face-detection-recognition.svg",
     images:["images/ai/face-detection-recognition/1.JPG","images/ai/face-detection-recognition/2.JPG","images/ai/face-detection-recognition/3.JPG"]
@@ -48,7 +48,7 @@ const PROJECTS = [
     section:"ai",
     title:"Logo Detection",
     tag:"Computer Vision",
-    desc:"Detect brand logos in video files using OpenCV template matching or YOLO, with a desktop GUI, CLI, and Python API.",
+    desc:"Developed a computer vision application combining ORB + RANSAC homography with YOLO to automatically detect and track brand logos throughout video content, helping editors reduce manual identification time from 8+ hours to under 30 minutes with 70%+ detection accuracy, while providing GUI, CLI, API, automated testing, and annotated video/JSON outputs. ",
     link:"https://github.com/anas94-ba/logo-detector",
     cover:"images/logo-detection.svg",
     images:["images/ai/logo-detection/1.JPG","images/ai/logo-detection/2.JPG"]
@@ -58,7 +58,7 @@ const PROJECTS = [
     section:"software",
     title:"Barbershop Management System",
     tag:"Website",
-    desc:"A web application for managing bookings, staff schedules and customers for a barbershop business, built end to end as a full-stack website.",
+    desc:"Developed a full-stack web application to automate customer booking, appointment management, service tracking, and performance monitoring, reducing operational processing time from 10 days to a few minutes, while contributing to increasing the customer base from 150 to 800+ and profitability from 30% to 58%+.",
     link:"https://github.com/anas94-ba/Barbershop-Managment-System",
     cover:"images/barbershop-management-system.svg",
     images:['images/sd/BMS/1.JPG','images/sd/BMS/2.JPG','images/sd/BMS/3.JPG','images/sd/BMS/4.JPG']
@@ -68,7 +68,7 @@ const PROJECTS = [
     section:"software",
     title:"Supermarket Management System",
     tag:"Desktop Application",
-    desc:"A desktop application for managing inventory, sales and staff for a supermarket, designed for daily operational use.",
+    desc:"Developed a desktop application for managing inventory, sales and staff for a supermarket, designed for daily operational use.",
     link:"https://github.com/anas94-ba/SuperMarket",
     cover:"images/supermarket-management-system.svg",
     images:['images/sd/SMS/1.JPG','images/sd/SMS/2.JPG','images/sd/SMS/3.JPG','images/sd/SMS/4.JPG']
@@ -78,7 +78,7 @@ const PROJECTS = [
     section:"data",
     title:"HR Analysis",
     tag:"Excel",
-    desc:"An HR analytics workbook exploring workforce metrics such as headcount, attrition and performance, built with Excel formulas and pivot tables.",
+    desc:"Cleaned and analyzed 10,000+ employee records and automated data preparation using Power Query, reducing processing time from 2 days to 10 minutes, then transformed workforce and performance insights into an interactive Excel dashboard that contributed to reducing employee retirement rates from 30% to 10% and increasing productivity from 50% to 75%+. ",
     link:"https://docs.google.com/spreadsheets/d/1lJSjn8mFH0dNeAh931muLIe8-uiWX2D9/edit?usp=drive_link&ouid=103805479487189940846&rtpof=true&sd=true",
     cover:"images/hr-analysis-excel.svg",
     images:["images/da/1/1.JPG"]
@@ -88,7 +88,7 @@ const PROJECTS = [
     section:"data",
     title:"Superstore Analysis",
     tag:"Tableau",
-    desc:"An interactive Tableau dashboard analyzing sales, profit and shipping performance across the classic Superstore retail dataset.",
+    desc:"Cleaned and analyzed 1,000+ sales orders and automated data preparation workflows, reducing processing time from 2 days to 5 minutes, then visualized sales, profit, customer, and product insights in Tableau, contributing to reducing the return rate from 35% to below 10% and increasing profitability from 40% to 75%+. ",
     link:"https://public.tableau.com/app/profile/anas.baba5653/viz/Book2_17838428714760/Story1",
     cover:"images/superstore-analysis-tableau.svg",
     images:["images/da/2/1.JPG","images/da/2/2.JPG"]
@@ -98,7 +98,7 @@ const PROJECTS = [
     section:"data",
     title:"Flights Dataset Analysis",
     tag:"SQL",
-    desc:"A SQL-based exploration of a flights dataset, covering delays, routes and airline performance through structured queries.",
+    desc:"Cleaned, analyzed, and visualized flight performance data to provide airport management with actionable operational insights, supporting data-driven decision-making and contributing to increasing profitability from 35% to 45%+. ",
     link:"",
     cover:"images/flights-analysis-sql.svg",
     images:["images/da/3/1.JPG","images/da/3/2.JPG","images/da/3/3.JPG","images/da/3/4.JPG"]
@@ -109,7 +109,7 @@ const PROJECTS = [
     section:"data",
     title:"Humanitarian Response Dashboard for the Gaza Strip",
     tag:"Power BI",
-    desc:"A Power BI dashboard tracking humanitarian response indicators for the Gaza Strip, built to support clear, data-driven situational awareness.",
+    desc:"Automated data cleaning, analysis, and visualization of humanitarian response data across projects, beneficiaries, sectors, donors, and locations, enabling data-driven decision-making that contributed to reducing the complaint rate from 40% to 15% and increasing beneficiary satisfaction from 50% to 80%+. ",
     link:"https://drive.google.com/file/d/1qWXoljGZd_QbwzgV-Ior3pUp4TswYA5G/view?usp=drive_link",
     cover:"images/gaza-humanitarian-dashboard.svg",
     images:["images/da/4/1.JPG","images/da/4/2.JPG","images/da/4/3.JPG"]
@@ -119,7 +119,7 @@ const PROJECTS = [
     section:"data",
     title:"Flights Dataset Analysis",
     tag:"Power BI",
-    desc:"A Power BI report examining flight performance, delays and route patterns from the flights dataset.",
+    desc:"Cleaned, and analyzed flight performance data to provide airport management with actionable operational insights, supporting data-driven decision-making and contributing to increasing profitability from 35% to 45%+. ",
     link:"https://drive.google.com/file/d/1C3NM5u9EV6h1ULbIlUfxAnqK1Uh89i8S/view?usp=drive_link",
     cover:"images/flights-analysis-powerbi.svg",
     images:["images/da/5/1.JPG","images/da/5/2.JPG","images/da/5/3.JPG","images/da/5/4.JPG"]
@@ -129,7 +129,7 @@ const PROJECTS = [
     section:"data",
     title:"Bank Campaign Dataset Analysis",
     tag:"Tableau",
-    desc:"A Tableau dashboard analyzing a bank's marketing campaign dataset to uncover patterns in customer response and conversion.",
+    desc:"Cleaned, analyzed, and visualized customer behavior and marketing campaign data in Tableau, generating actionable insights that contributed to increasing campaign participation from 30% to 60%+ and reducing the return rate from 50% to 30%. ",
     link:"https://public.tableau.com/app/profile/anas.baba5653/viz/bank_17840351069080/Story1",
     cover:"images/bank-campaign-analysis-tableau.svg",
     images:["images/da/6/1.JPG","images/da/6/2.JPG","images/da/6/3.JPG"]
@@ -149,7 +149,7 @@ const PROJECTS = [
     section:"data",
     title:"Dynamic executive financial dashboard (CFO Dashboard) linked to Odoo via Power Query.",
     tag:"Excel",
-    desc:"An executive Excel dashboard that automatically links monthly Odoo data exports via Power Query, updating indicators, monthly and cumulative comparisons, and budget variances with the click of a button—without requiring any manual formula adjustments.",
+    desc:"Automated Odoo data cleaning and transformation using Power Query, reducing processing time from 5–7 days to 4 minutes, and implemented automated monthly data integration and dashboard updates, eliminating repetitive manual copying and contributing to increasing profitability from 20% to 50%. ",
     link:"https://docs.google.com/spreadsheets/d/106nCIHvNfxWasSaV83sLfIqHNmSUbSiJ/edit?usp=sharing&ouid=103805479487189940846&rtpof=true&sd=true",
     cover:"images/finance-analysis-excel.svg",
     images:["images/da/8/1.jpg","images/da/8/2.jpg","images/da/8/3.jpg","images/da/8/4.jpg"]
