@@ -54,6 +54,16 @@ const PROJECTS = [
     images:["images/ai/logo-detection/1.JPG","images/ai/logo-detection/2.JPG"]
   },
   {
+    id:"video-qa-ai-agent",
+    section:"ai",
+    title:"Video Q&A Ai Agent",
+    tag:"Ai Agent",
+    desc:"Built a bilingual (Arabic/English) RAG web app with FastAPI and Gemini that reduces the time to find information in long YouTube videos and podcasts to minutes, returning answers with clickable timestamp citations and automatic audio transcription when captions are unavailable.",
+    link:"https://github.com/anas94-ba/video-qa",
+    cover:"images/video-qa.svg",
+    images:["images/ai/Ask-Video-Ai-Agent/1.JPG"]
+  },
+  {
     id:"barbershop-management-system",
     section:"software",
     title:"Barbershop Management System",
