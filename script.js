@@ -59,7 +59,7 @@ const PROJECTS = [
     title:"Video Q&A Ai Agent",
     tag:"Ai Agent",
     desc:"Built a bilingual (Arabic/English) RAG web app with FastAPI and Gemini that reduces the time to find information in long YouTube videos and podcasts to minutes, returning answers with clickable timestamp citations and automatic audio transcription when captions are unavailable.",
-    link:"https://github.com/anas94-ba/video-qa",
+    link:"https://video-qa-http-2e832e6a.hosted.cumin.dev/",
     cover:"images/video-qa.svg",
     images:["images/ai/Ask-Video-Ai-Agent/1.JPG"]
   },
