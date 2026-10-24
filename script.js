@@ -88,7 +88,7 @@ const PROJECTS = [
     section:"data",
     title:"HR Analysis",
     tag:"Excel",
-    desc:"Cleaned and analyzed 10,000+ employee records and automated data preparation using Power Query, reducing processing time from 2 days to 10 minutes, then transformed workforce and performance insights into an interactive Excel dashboard that contributed to reducing employee retirement rates from 30% to 10% and increasing productivity from 50% to 75%+. ",
+    desc:"Cleaned and transformed 10,000+ employee records using Power Query to streamline data preparation and improve data quality. Developed an interactive Excel dashboard to analyze workforce trends, employee performance, and HR indicators, helping identify retention challenges and supporting data-driven decisions for workforce planning and productivity improvement.",
     link:"https://docs.google.com/spreadsheets/d/1lJSjn8mFH0dNeAh931muLIe8-uiWX2D9/edit?usp=drive_link&ouid=103805479487189940846&rtpof=true&sd=true",
     cover:"images/hr-analysis-excel.svg",
     images:["images/da/1/1.JPG"]
@@ -98,7 +98,7 @@ const PROJECTS = [
     section:"data",
     title:"Superstore Analysis",
     tag:"Tableau",
-    desc:"Cleaned and analyzed 1,000+ sales orders and automated data preparation workflows, reducing processing time from 2 days to 5 minutes, then visualized sales, profit, customer, and product insights in Tableau, contributing to reducing the return rate from 35% to below 10% and increasing profitability from 40% to 75%+. ",
+    desc:"Cleaned and analyzed 1,000+ sales orders and streamlined data preparation workflows to improve data quality and processing efficiency. Developed an interactive Tableau dashboard to visualize sales performance, profitability, customer behavior, and product trends, providing actionable insights to support business decisions, reduce product returns, and improve profitability.",
     link:"https://public.tableau.com/app/profile/anas.baba5653/viz/Book2_17838428714760/Story1",
     cover:"images/superstore-analysis-tableau.svg",
     images:["images/da/2/1.JPG","images/da/2/2.JPG"]
@@ -108,7 +108,7 @@ const PROJECTS = [
     section:"data",
     title:"Flights Dataset Analysis",
     tag:"SQL",
-    desc:"Cleaned, analyzed, and visualized flight performance data to provide airport management with actionable operational insights, supporting data-driven decision-making and contributing to increasing profitability from 35% to 45%+. ",
+    desc:"Cleaned, analyzed, and visualized sales, revenue, product performance, and customer purchasing data using Excel. Developed reports and visualizations to identify sales trends, evaluate product performance, and understand customer purchasing patterns, providing actionable insights to support business planning and improve profitability.",
     link:"",
     cover:"images/flights-analysis-sql.svg",
     images:["images/da/3/1.JPG","images/da/3/2.JPG","images/da/3/3.JPG","images/da/3/4.JPG"]
@@ -119,7 +119,7 @@ const PROJECTS = [
     section:"data",
     title:"Humanitarian Response Dashboard for the Gaza Strip",
     tag:"Power BI",
-    desc:"Automated data cleaning, analysis, and visualization of humanitarian response data across projects, beneficiaries, sectors, donors, and locations, enabling data-driven decision-making that contributed to reducing the complaint rate from 40% to 15% and increasing beneficiary satisfaction from 50% to 80%+. ",
+    desc:"Cleaned and analyzed humanitarian response data across projects, beneficiaries, sectors, donors, and locations to monitor programme performance, identify service gaps, and support data-driven decision-making and beneficiary accountability.",
     link:"https://drive.google.com/file/d/1qWXoljGZd_QbwzgV-Ior3pUp4TswYA5G/view?usp=drive_link",
     cover:"images/gaza-humanitarian-dashboard.svg",
     images:["images/da/4/1.JPG","images/da/4/2.JPG","images/da/4/3.JPG"]
@@ -129,7 +129,7 @@ const PROJECTS = [
     section:"data",
     title:"Flights Dataset Analysis",
     tag:"Power BI",
-    desc:"Cleaned, and analyzed flight performance data to provide airport management with actionable operational insights, supporting data-driven decision-making and contributing to increasing profitability from 35% to 45%+. ",
+    desc:"Cleaned and analyzed flight performance data to develop an interactive dashboard for monitoring operational performance and identifying trends. Provided airport management with actionable insights to support data-driven decision-making, improve operational efficiency, and identify opportunities for better resource utilization and profitability.",
     link:"https://drive.google.com/file/d/1C3NM5u9EV6h1ULbIlUfxAnqK1Uh89i8S/view?usp=drive_link",
     cover:"images/flights-analysis-powerbi.svg",
     images:["images/da/5/1.JPG","images/da/5/2.JPG","images/da/5/3.JPG","images/da/5/4.JPG"]
@@ -139,7 +139,7 @@ const PROJECTS = [
     section:"data",
     title:"Bank Campaign Dataset Analysis",
     tag:"Tableau",
-    desc:"Cleaned, analyzed, and visualized customer behavior and marketing campaign data in Tableau, generating actionable insights that contributed to increasing campaign participation from 30% to 60%+ and reducing the return rate from 50% to 30%. ",
+    desc:"Cleaned, analyzed, and visualized customer behavior and marketing campaign data using Tableau. Developed interactive visualizations to identify customer trends, evaluate campaign performance, and uncover factors influencing customer participation, providing actionable insights to support marketing strategies and improve campaign effectiveness.",
     link:"https://public.tableau.com/app/profile/anas.baba5653/viz/bank_17840351069080/Story1",
     cover:"images/bank-campaign-analysis-tableau.svg",
     images:["images/da/6/1.JPG","images/da/6/2.JPG","images/da/6/3.JPG"]
@@ -149,7 +149,7 @@ const PROJECTS = [
     section:"data",
     title:"E-Commerce Data Analysis",
     tag:"Python",
-    desc:"E-commerce Data Analysis — Cleaned and analyzed 540K+ real retail transactions using Python and Pandas, uncovering that the top 31% of customers drive 80% of revenue. Built 12 visualizations to support data-driven retention and growth decisions.",
+    desc:"Cleaned and analyzed 540K+ retail transactions using Python and Pandas, identifying that the top 31% of customers generated 80% of revenue, and built 12 visualizations to support retention and growth strategies . ",
     link:"https://github.com/anas94-ba/E-Commerce-Data-Analysis",
     cover:"images/ecommerce_data_analysis.svg",
     images:["images/da/7/1.png","images/da/7/2.png","images/da/7/3.png","images/da/7/4.png"]
@@ -159,7 +159,7 @@ const PROJECTS = [
     section:"data",
     title:"Dynamic executive financial dashboard (CFO Dashboard) linked to Odoo via Power Query.",
     tag:"Excel",
-    desc:"Automated Odoo data cleaning and transformation using Power Query, reducing processing time from 5–7 days to 4 minutes, and implemented automated monthly data integration and dashboard updates, eliminating repetitive manual copying and contributing to increasing profitability from 20% to 50%. ",
+    desc:"Automated the cleaning, transformation, and integration of financial data exported from Odoo using Power Query. Developed a dynamic executive dashboard with automated monthly updates, reducing repetitive manual data entry and improving reporting efficiency, financial monitoring, and visibility into key performance indicators to support management decision-making.",
     link:"https://docs.google.com/spreadsheets/d/106nCIHvNfxWasSaV83sLfIqHNmSUbSiJ/edit?usp=sharing&ouid=103805479487189940846&rtpof=true&sd=true",
     cover:"images/finance-analysis-excel.svg",
     images:["images/da/8/1.jpg","images/da/8/2.jpg","images/da/8/3.jpg","images/da/8/4.jpg"]
